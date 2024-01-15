@@ -289,13 +289,14 @@ body {
 
 	.card-bottom {
 		display: flex;
+		gap: 0.5rem;
 		align-items: start;
 		flex-direction: column;
 	}
 
 	.card-bottom h4 {
-		font-size: 4rem;
-		letter-spacing: 1px;
+		font-size: 3.8rem;
+		letter-spacing: 0.1px;
 	}
 
 	.attribution {
